@@ -1,0 +1,15 @@
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Logic\Logic\bin\Debug\net8.0\Logic.exe
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Logic\Logic\bin\Debug\net8.0\Logic.deps.json
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Logic\Logic\bin\Debug\net8.0\Logic.runtimeconfig.json
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Logic\Logic\bin\Debug\net8.0\Logic.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Logic\Logic\bin\Debug\net8.0\Logic.pdb
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Logic\Logic\obj\Debug\net8.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Logic\Logic\obj\Debug\net8.0\Logic.AssemblyInfoInputs.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Logic\Logic\obj\Debug\net8.0\Logic.AssemblyInfo.cs
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Logic\Logic\obj\Debug\net8.0\Logic.csproj.CoreCompileInputs.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Logic\Logic\obj\Debug\net8.0\Logic.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Logic\Logic\obj\Debug\net8.0\refint\Logic.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Logic\Logic\obj\Debug\net8.0\Logic.pdb
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Logic\Logic\obj\Debug\net8.0\Logic.genruntimeconfig.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Logic\Logic\obj\Debug\net8.0\ref\Logic.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Logic\Logic\obj\Debug\net8.0\Logic.csproj.Up2Date
