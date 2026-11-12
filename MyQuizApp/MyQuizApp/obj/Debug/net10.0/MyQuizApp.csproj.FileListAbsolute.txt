@@ -1,0 +1,14 @@
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\MyQuizApp\MyQuizApp\bin\Debug\net10.0\MyQuizApp.exe
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\MyQuizApp\MyQuizApp\bin\Debug\net10.0\MyQuizApp.deps.json
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\MyQuizApp\MyQuizApp\bin\Debug\net10.0\MyQuizApp.runtimeconfig.json
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\MyQuizApp\MyQuizApp\bin\Debug\net10.0\MyQuizApp.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\MyQuizApp\MyQuizApp\bin\Debug\net10.0\MyQuizApp.pdb
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\MyQuizApp\MyQuizApp\obj\Debug\net10.0\MyQuizApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\MyQuizApp\MyQuizApp\obj\Debug\net10.0\MyQuizApp.AssemblyInfoInputs.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\MyQuizApp\MyQuizApp\obj\Debug\net10.0\MyQuizApp.AssemblyInfo.cs
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\MyQuizApp\MyQuizApp\obj\Debug\net10.0\MyQuizApp.csproj.CoreCompileInputs.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\MyQuizApp\MyQuizApp\obj\Debug\net10.0\MyQuizApp.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\MyQuizApp\MyQuizApp\obj\Debug\net10.0\refint\MyQuizApp.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\MyQuizApp\MyQuizApp\obj\Debug\net10.0\MyQuizApp.pdb
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\MyQuizApp\MyQuizApp\obj\Debug\net10.0\MyQuizApp.genruntimeconfig.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\MyQuizApp\MyQuizApp\obj\Debug\net10.0\ref\MyQuizApp.dll
