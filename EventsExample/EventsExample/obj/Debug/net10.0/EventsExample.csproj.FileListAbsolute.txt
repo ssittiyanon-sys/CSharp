@@ -1,0 +1,14 @@
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EventsExample\EventsExample\bin\Debug\net10.0\EventsExample.exe
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EventsExample\EventsExample\bin\Debug\net10.0\EventsExample.deps.json
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EventsExample\EventsExample\bin\Debug\net10.0\EventsExample.runtimeconfig.json
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EventsExample\EventsExample\bin\Debug\net10.0\EventsExample.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EventsExample\EventsExample\bin\Debug\net10.0\EventsExample.pdb
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EventsExample\EventsExample\obj\Debug\net10.0\EventsExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EventsExample\EventsExample\obj\Debug\net10.0\EventsExample.AssemblyInfoInputs.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EventsExample\EventsExample\obj\Debug\net10.0\EventsExample.AssemblyInfo.cs
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EventsExample\EventsExample\obj\Debug\net10.0\EventsExample.csproj.CoreCompileInputs.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EventsExample\EventsExample\obj\Debug\net10.0\EventsExample.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EventsExample\EventsExample\obj\Debug\net10.0\refint\EventsExample.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EventsExample\EventsExample\obj\Debug\net10.0\EventsExample.pdb
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EventsExample\EventsExample\obj\Debug\net10.0\EventsExample.genruntimeconfig.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EventsExample\EventsExample\obj\Debug\net10.0\ref\EventsExample.dll
