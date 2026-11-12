@@ -1,0 +1,15 @@
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\LoopBasic\LoopBasic\bin\Debug\net8.0\LoopBasic.exe
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\LoopBasic\LoopBasic\bin\Debug\net8.0\LoopBasic.deps.json
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\LoopBasic\LoopBasic\bin\Debug\net8.0\LoopBasic.runtimeconfig.json
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\LoopBasic\LoopBasic\bin\Debug\net8.0\LoopBasic.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\LoopBasic\LoopBasic\bin\Debug\net8.0\LoopBasic.pdb
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\LoopBasic\LoopBasic\obj\Debug\net8.0\LoopBasic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\LoopBasic\LoopBasic\obj\Debug\net8.0\LoopBasic.AssemblyInfoInputs.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\LoopBasic\LoopBasic\obj\Debug\net8.0\LoopBasic.AssemblyInfo.cs
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\LoopBasic\LoopBasic\obj\Debug\net8.0\LoopBasic.csproj.CoreCompileInputs.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\LoopBasic\LoopBasic\obj\Debug\net8.0\LoopBasic.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\LoopBasic\LoopBasic\obj\Debug\net8.0\refint\LoopBasic.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\LoopBasic\LoopBasic\obj\Debug\net8.0\LoopBasic.pdb
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\LoopBasic\LoopBasic\obj\Debug\net8.0\LoopBasic.genruntimeconfig.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\LoopBasic\LoopBasic\obj\Debug\net8.0\ref\LoopBasic.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\LoopBasic\LoopBasic\obj\Debug\net8.0\LoopBasic.csproj.Up2Date
