@@ -1,0 +1,14 @@
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DateTimeTest01\DateTimeTest01\obj\Debug\net10.0\DateTimeTest01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DateTimeTest01\DateTimeTest01\obj\Debug\net10.0\DateTimeTest01.AssemblyInfoInputs.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DateTimeTest01\DateTimeTest01\obj\Debug\net10.0\DateTimeTest01.AssemblyInfo.cs
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DateTimeTest01\DateTimeTest01\obj\Debug\net10.0\DateTimeTest01.csproj.CoreCompileInputs.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DateTimeTest01\DateTimeTest01\bin\Debug\net10.0\DateTimeTest01.exe
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DateTimeTest01\DateTimeTest01\bin\Debug\net10.0\DateTimeTest01.deps.json
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DateTimeTest01\DateTimeTest01\bin\Debug\net10.0\DateTimeTest01.runtimeconfig.json
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DateTimeTest01\DateTimeTest01\bin\Debug\net10.0\DateTimeTest01.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DateTimeTest01\DateTimeTest01\bin\Debug\net10.0\DateTimeTest01.pdb
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DateTimeTest01\DateTimeTest01\obj\Debug\net10.0\DateTimeTest01.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DateTimeTest01\DateTimeTest01\obj\Debug\net10.0\refint\DateTimeTest01.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DateTimeTest01\DateTimeTest01\obj\Debug\net10.0\DateTimeTest01.pdb
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DateTimeTest01\DateTimeTest01\obj\Debug\net10.0\DateTimeTest01.genruntimeconfig.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DateTimeTest01\DateTimeTest01\obj\Debug\net10.0\ref\DateTimeTest01.dll

@@ -1,0 +1,14 @@
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DateTimeT\DateTimeT\bin\Debug\net10.0\DateTimeT.exe
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DateTimeT\DateTimeT\bin\Debug\net10.0\DateTimeT.deps.json
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DateTimeT\DateTimeT\bin\Debug\net10.0\DateTimeT.runtimeconfig.json
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DateTimeT\DateTimeT\bin\Debug\net10.0\DateTimeT.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DateTimeT\DateTimeT\bin\Debug\net10.0\DateTimeT.pdb
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DateTimeT\DateTimeT\obj\Debug\net10.0\DateTimeT.GeneratedMSBuildEditorConfig.editorconfig
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DateTimeT\DateTimeT\obj\Debug\net10.0\DateTimeT.AssemblyInfoInputs.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DateTimeT\DateTimeT\obj\Debug\net10.0\DateTimeT.AssemblyInfo.cs
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DateTimeT\DateTimeT\obj\Debug\net10.0\DateTimeT.csproj.CoreCompileInputs.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DateTimeT\DateTimeT\obj\Debug\net10.0\DateTimeT.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DateTimeT\DateTimeT\obj\Debug\net10.0\refint\DateTimeT.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DateTimeT\DateTimeT\obj\Debug\net10.0\DateTimeT.pdb
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DateTimeT\DateTimeT\obj\Debug\net10.0\DateTimeT.genruntimeconfig.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DateTimeT\DateTimeT\obj\Debug\net10.0\ref\DateTimeT.dll
