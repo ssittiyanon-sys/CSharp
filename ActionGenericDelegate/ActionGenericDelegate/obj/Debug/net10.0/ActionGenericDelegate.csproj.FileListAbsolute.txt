@@ -1,0 +1,14 @@
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\ActionGenericDelegate\ActionGenericDelegate\bin\Debug\net10.0\ActionGenericDelegate.exe
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\ActionGenericDelegate\ActionGenericDelegate\bin\Debug\net10.0\ActionGenericDelegate.deps.json
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\ActionGenericDelegate\ActionGenericDelegate\bin\Debug\net10.0\ActionGenericDelegate.runtimeconfig.json
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\ActionGenericDelegate\ActionGenericDelegate\bin\Debug\net10.0\ActionGenericDelegate.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\ActionGenericDelegate\ActionGenericDelegate\bin\Debug\net10.0\ActionGenericDelegate.pdb
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\ActionGenericDelegate\ActionGenericDelegate\obj\Debug\net10.0\ActionGenericDelegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\ActionGenericDelegate\ActionGenericDelegate\obj\Debug\net10.0\ActionGenericDelegate.AssemblyInfoInputs.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\ActionGenericDelegate\ActionGenericDelegate\obj\Debug\net10.0\ActionGenericDelegate.AssemblyInfo.cs
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\ActionGenericDelegate\ActionGenericDelegate\obj\Debug\net10.0\ActionGenericDelegate.csproj.CoreCompileInputs.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\ActionGenericDelegate\ActionGenericDelegate\obj\Debug\net10.0\ActionGenericDelegate.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\ActionGenericDelegate\ActionGenericDelegate\obj\Debug\net10.0\refint\ActionGenericDelegate.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\ActionGenericDelegate\ActionGenericDelegate\obj\Debug\net10.0\ActionGenericDelegate.pdb
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\ActionGenericDelegate\ActionGenericDelegate\obj\Debug\net10.0\ActionGenericDelegate.genruntimeconfig.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\ActionGenericDelegate\ActionGenericDelegate\obj\Debug\net10.0\ref\ActionGenericDelegate.dll
