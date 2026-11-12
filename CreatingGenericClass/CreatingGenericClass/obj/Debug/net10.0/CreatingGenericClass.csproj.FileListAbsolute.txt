@@ -1,0 +1,14 @@
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\CreatingGenericClass\CreatingGenericClass\obj\Debug\net10.0\CreatingGenericClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\CreatingGenericClass\CreatingGenericClass\obj\Debug\net10.0\CreatingGenericClass.AssemblyInfoInputs.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\CreatingGenericClass\CreatingGenericClass\obj\Debug\net10.0\CreatingGenericClass.AssemblyInfo.cs
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\CreatingGenericClass\CreatingGenericClass\obj\Debug\net10.0\CreatingGenericClass.csproj.CoreCompileInputs.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\CreatingGenericClass\CreatingGenericClass\bin\Debug\net10.0\CreatingGenericClass.exe
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\CreatingGenericClass\CreatingGenericClass\bin\Debug\net10.0\CreatingGenericClass.deps.json
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\CreatingGenericClass\CreatingGenericClass\bin\Debug\net10.0\CreatingGenericClass.runtimeconfig.json
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\CreatingGenericClass\CreatingGenericClass\bin\Debug\net10.0\CreatingGenericClass.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\CreatingGenericClass\CreatingGenericClass\bin\Debug\net10.0\CreatingGenericClass.pdb
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\CreatingGenericClass\CreatingGenericClass\obj\Debug\net10.0\CreatingGenericClass.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\CreatingGenericClass\CreatingGenericClass\obj\Debug\net10.0\refint\CreatingGenericClass.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\CreatingGenericClass\CreatingGenericClass\obj\Debug\net10.0\CreatingGenericClass.pdb
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\CreatingGenericClass\CreatingGenericClass\obj\Debug\net10.0\CreatingGenericClass.genruntimeconfig.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\CreatingGenericClass\CreatingGenericClass\obj\Debug\net10.0\ref\CreatingGenericClass.dll
