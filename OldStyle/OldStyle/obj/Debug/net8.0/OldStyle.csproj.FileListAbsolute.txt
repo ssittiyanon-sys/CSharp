@@ -1,0 +1,14 @@
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\OldStyle\OldStyle\bin\Debug\net8.0\OldStyle.exe
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\OldStyle\OldStyle\bin\Debug\net8.0\OldStyle.deps.json
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\OldStyle\OldStyle\bin\Debug\net8.0\OldStyle.runtimeconfig.json
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\OldStyle\OldStyle\bin\Debug\net8.0\OldStyle.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\OldStyle\OldStyle\bin\Debug\net8.0\OldStyle.pdb
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\OldStyle\OldStyle\obj\Debug\net8.0\OldStyle.GeneratedMSBuildEditorConfig.editorconfig
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\OldStyle\OldStyle\obj\Debug\net8.0\OldStyle.AssemblyInfoInputs.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\OldStyle\OldStyle\obj\Debug\net8.0\OldStyle.AssemblyInfo.cs
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\OldStyle\OldStyle\obj\Debug\net8.0\OldStyle.csproj.CoreCompileInputs.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\OldStyle\OldStyle\obj\Debug\net8.0\OldStyle.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\OldStyle\OldStyle\obj\Debug\net8.0\refint\OldStyle.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\OldStyle\OldStyle\obj\Debug\net8.0\OldStyle.pdb
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\OldStyle\OldStyle\obj\Debug\net8.0\OldStyle.genruntimeconfig.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\OldStyle\OldStyle\obj\Debug\net8.0\ref\OldStyle.dll
