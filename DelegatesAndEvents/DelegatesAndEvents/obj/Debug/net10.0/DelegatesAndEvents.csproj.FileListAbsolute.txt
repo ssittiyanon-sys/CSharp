@@ -1,0 +1,14 @@
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\net10.0\DelegatesAndEvents.exe
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\net10.0\DelegatesAndEvents.deps.json
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\net10.0\DelegatesAndEvents.runtimeconfig.json
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\net10.0\DelegatesAndEvents.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\net10.0\DelegatesAndEvents.pdb
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\net10.0\DelegatesAndEvents.GeneratedMSBuildEditorConfig.editorconfig
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\net10.0\DelegatesAndEvents.AssemblyInfoInputs.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\net10.0\DelegatesAndEvents.AssemblyInfo.cs
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\net10.0\DelegatesAndEvents.csproj.CoreCompileInputs.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\net10.0\DelegatesAndEvents.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\net10.0\refint\DelegatesAndEvents.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\net10.0\DelegatesAndEvents.pdb
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\net10.0\DelegatesAndEvents.genruntimeconfig.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\net10.0\ref\DelegatesAndEvents.dll

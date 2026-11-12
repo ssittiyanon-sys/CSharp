@@ -1,0 +1,14 @@
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DependencyInjectionApp\DependencyInjectionApp\obj\Debug\net8.0\DependencyInjectionApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DependencyInjectionApp\DependencyInjectionApp\obj\Debug\net8.0\DependencyInjectionApp.AssemblyInfoInputs.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DependencyInjectionApp\DependencyInjectionApp\obj\Debug\net8.0\DependencyInjectionApp.AssemblyInfo.cs
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DependencyInjectionApp\DependencyInjectionApp\obj\Debug\net8.0\DependencyInjectionApp.csproj.CoreCompileInputs.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DependencyInjectionApp\DependencyInjectionApp\bin\Debug\net8.0\DependencyInjectionApp.exe
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DependencyInjectionApp\DependencyInjectionApp\bin\Debug\net8.0\DependencyInjectionApp.deps.json
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DependencyInjectionApp\DependencyInjectionApp\bin\Debug\net8.0\DependencyInjectionApp.runtimeconfig.json
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DependencyInjectionApp\DependencyInjectionApp\bin\Debug\net8.0\DependencyInjectionApp.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DependencyInjectionApp\DependencyInjectionApp\bin\Debug\net8.0\DependencyInjectionApp.pdb
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DependencyInjectionApp\DependencyInjectionApp\obj\Debug\net8.0\DependencyInjectionApp.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DependencyInjectionApp\DependencyInjectionApp\obj\Debug\net8.0\refint\DependencyInjectionApp.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DependencyInjectionApp\DependencyInjectionApp\obj\Debug\net8.0\DependencyInjectionApp.pdb
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DependencyInjectionApp\DependencyInjectionApp\obj\Debug\net8.0\DependencyInjectionApp.genruntimeconfig.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DependencyInjectionApp\DependencyInjectionApp\obj\Debug\net8.0\ref\DependencyInjectionApp.dll

@@ -1,0 +1,4 @@
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DependencyInjectionApp\DependencyInjectionApp\obj\Debug\net10.0\DependencyInjectionApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DependencyInjectionApp\DependencyInjectionApp\obj\Debug\net10.0\DependencyInjectionApp.AssemblyInfoInputs.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DependencyInjectionApp\DependencyInjectionApp\obj\Debug\net10.0\DependencyInjectionApp.AssemblyInfo.cs
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\DependencyInjectionApp\DependencyInjectionApp\obj\Debug\net10.0\DependencyInjectionApp.csproj.CoreCompileInputs.cache
