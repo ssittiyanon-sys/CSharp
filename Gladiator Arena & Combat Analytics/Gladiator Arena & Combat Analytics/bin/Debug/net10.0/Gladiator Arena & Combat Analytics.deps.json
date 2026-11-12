@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Gladiator Arena & Combat Analytics/1.0.0": {
+        "runtime": {
+          "Gladiator Arena & Combat Analytics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gladiator Arena & Combat Analytics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

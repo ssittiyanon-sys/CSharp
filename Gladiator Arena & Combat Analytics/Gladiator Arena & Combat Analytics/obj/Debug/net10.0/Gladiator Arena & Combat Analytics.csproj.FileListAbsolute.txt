@@ -1,0 +1,14 @@
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Gladiator Arena & Combat Analytics\Gladiator Arena & Combat Analytics\bin\Debug\net10.0\Gladiator Arena & Combat Analytics.exe
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Gladiator Arena & Combat Analytics\Gladiator Arena & Combat Analytics\bin\Debug\net10.0\Gladiator Arena & Combat Analytics.deps.json
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Gladiator Arena & Combat Analytics\Gladiator Arena & Combat Analytics\bin\Debug\net10.0\Gladiator Arena & Combat Analytics.runtimeconfig.json
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Gladiator Arena & Combat Analytics\Gladiator Arena & Combat Analytics\bin\Debug\net10.0\Gladiator Arena & Combat Analytics.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Gladiator Arena & Combat Analytics\Gladiator Arena & Combat Analytics\bin\Debug\net10.0\Gladiator Arena & Combat Analytics.pdb
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Gladiator Arena & Combat Analytics\Gladiator Arena & Combat Analytics\obj\Debug\net10.0\Gladiator Arena & Combat Analytics.GeneratedMSBuildEditorConfig.editorconfig
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Gladiator Arena & Combat Analytics\Gladiator Arena & Combat Analytics\obj\Debug\net10.0\Gladiator Arena & Combat Analytics.AssemblyInfoInputs.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Gladiator Arena & Combat Analytics\Gladiator Arena & Combat Analytics\obj\Debug\net10.0\Gladiator Arena & Combat Analytics.AssemblyInfo.cs
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Gladiator Arena & Combat Analytics\Gladiator Arena & Combat Analytics\obj\Debug\net10.0\Gladiator Arena & Combat Analytics.csproj.CoreCompileInputs.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Gladiator Arena & Combat Analytics\Gladiator Arena & Combat Analytics\obj\Debug\net10.0\Gladiator Arena & Combat Analytics.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Gladiator Arena & Combat Analytics\Gladiator Arena & Combat Analytics\obj\Debug\net10.0\refint\Gladiator Arena & Combat Analytics.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Gladiator Arena & Combat Analytics\Gladiator Arena & Combat Analytics\obj\Debug\net10.0\Gladiator Arena & Combat Analytics.pdb
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Gladiator Arena & Combat Analytics\Gladiator Arena & Combat Analytics\obj\Debug\net10.0\Gladiator Arena & Combat Analytics.genruntimeconfig.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Gladiator Arena & Combat Analytics\Gladiator Arena & Combat Analytics\obj\Debug\net10.0\ref\Gladiator Arena & Combat Analytics.dll
