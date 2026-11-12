@@ -1,0 +1,14 @@
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\InheritanceApp\InheritanceApp\bin\Debug\net10.0\InheritanceApp.exe
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\InheritanceApp\InheritanceApp\bin\Debug\net10.0\InheritanceApp.deps.json
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\InheritanceApp\InheritanceApp\bin\Debug\net10.0\InheritanceApp.runtimeconfig.json
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\InheritanceApp\InheritanceApp\bin\Debug\net10.0\InheritanceApp.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\InheritanceApp\InheritanceApp\bin\Debug\net10.0\InheritanceApp.pdb
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\InheritanceApp\InheritanceApp\obj\Debug\net10.0\InheritanceApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\InheritanceApp\InheritanceApp\obj\Debug\net10.0\InheritanceApp.AssemblyInfoInputs.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\InheritanceApp\InheritanceApp\obj\Debug\net10.0\InheritanceApp.AssemblyInfo.cs
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\InheritanceApp\InheritanceApp\obj\Debug\net10.0\InheritanceApp.csproj.CoreCompileInputs.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\InheritanceApp\InheritanceApp\obj\Debug\net10.0\InheritanceApp.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\InheritanceApp\InheritanceApp\obj\Debug\net10.0\refint\InheritanceApp.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\InheritanceApp\InheritanceApp\obj\Debug\net10.0\InheritanceApp.pdb
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\InheritanceApp\InheritanceApp\obj\Debug\net10.0\InheritanceApp.genruntimeconfig.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\InheritanceApp\InheritanceApp\obj\Debug\net10.0\ref\InheritanceApp.dll
