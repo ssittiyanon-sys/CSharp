@@ -1,0 +1,14 @@
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Dictionaries\Dictionaries\bin\Debug\net10.0\Dictionaries.exe
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Dictionaries\Dictionaries\bin\Debug\net10.0\Dictionaries.deps.json
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Dictionaries\Dictionaries\bin\Debug\net10.0\Dictionaries.runtimeconfig.json
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Dictionaries\Dictionaries\bin\Debug\net10.0\Dictionaries.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Dictionaries\Dictionaries\bin\Debug\net10.0\Dictionaries.pdb
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Dictionaries\Dictionaries\obj\Debug\net10.0\Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Dictionaries\Dictionaries\obj\Debug\net10.0\Dictionaries.AssemblyInfoInputs.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Dictionaries\Dictionaries\obj\Debug\net10.0\Dictionaries.AssemblyInfo.cs
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Dictionaries\Dictionaries\obj\Debug\net10.0\Dictionaries.csproj.CoreCompileInputs.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Dictionaries\Dictionaries\obj\Debug\net10.0\Dictionaries.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Dictionaries\Dictionaries\obj\Debug\net10.0\refint\Dictionaries.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Dictionaries\Dictionaries\obj\Debug\net10.0\Dictionaries.pdb
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Dictionaries\Dictionaries\obj\Debug\net10.0\Dictionaries.genruntimeconfig.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\Dictionaries\Dictionaries\obj\Debug\net10.0\ref\Dictionaries.dll

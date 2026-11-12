@@ -1,0 +1,15 @@
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EnumsC\EnumsC\bin\Debug\net10.0\EnumsC.exe
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EnumsC\EnumsC\bin\Debug\net10.0\EnumsC.deps.json
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EnumsC\EnumsC\bin\Debug\net10.0\EnumsC.runtimeconfig.json
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EnumsC\EnumsC\bin\Debug\net10.0\EnumsC.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EnumsC\EnumsC\bin\Debug\net10.0\EnumsC.pdb
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EnumsC\EnumsC\obj\Debug\net10.0\EnumsC.GeneratedMSBuildEditorConfig.editorconfig
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EnumsC\EnumsC\obj\Debug\net10.0\EnumsC.AssemblyInfoInputs.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EnumsC\EnumsC\obj\Debug\net10.0\EnumsC.AssemblyInfo.cs
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EnumsC\EnumsC\obj\Debug\net10.0\EnumsC.csproj.CoreCompileInputs.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EnumsC\EnumsC\obj\Debug\net10.0\EnumsC.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EnumsC\EnumsC\obj\Debug\net10.0\refint\EnumsC.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EnumsC\EnumsC\obj\Debug\net10.0\EnumsC.pdb
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EnumsC\EnumsC\obj\Debug\net10.0\EnumsC.genruntimeconfig.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EnumsC\EnumsC\obj\Debug\net10.0\ref\EnumsC.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EnumsC\EnumsC\obj\Debug\net10.0\EnumsC.csproj.Up2Date

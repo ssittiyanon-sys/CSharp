@@ -1,0 +1,14 @@
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EventsApp\EventsApp\bin\Debug\net10.0\EventsApp.exe
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EventsApp\EventsApp\bin\Debug\net10.0\EventsApp.deps.json
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EventsApp\EventsApp\bin\Debug\net10.0\EventsApp.runtimeconfig.json
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EventsApp\EventsApp\bin\Debug\net10.0\EventsApp.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EventsApp\EventsApp\bin\Debug\net10.0\EventsApp.pdb
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EventsApp\EventsApp\obj\Debug\net10.0\EventsApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EventsApp\EventsApp\obj\Debug\net10.0\EventsApp.AssemblyInfoInputs.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EventsApp\EventsApp\obj\Debug\net10.0\EventsApp.AssemblyInfo.cs
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EventsApp\EventsApp\obj\Debug\net10.0\EventsApp.csproj.CoreCompileInputs.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EventsApp\EventsApp\obj\Debug\net10.0\EventsApp.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EventsApp\EventsApp\obj\Debug\net10.0\refint\EventsApp.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EventsApp\EventsApp\obj\Debug\net10.0\EventsApp.pdb
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EventsApp\EventsApp\obj\Debug\net10.0\EventsApp.genruntimeconfig.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\EventsApp\EventsApp\obj\Debug\net10.0\ref\EventsApp.dll
