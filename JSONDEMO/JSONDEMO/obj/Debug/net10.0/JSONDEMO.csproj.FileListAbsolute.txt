@@ -1,0 +1,17 @@
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\JSONDEMO\JSONDEMO\bin\Debug\net10.0\JSONDEMO.exe
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\JSONDEMO\JSONDEMO\bin\Debug\net10.0\JSONDEMO.deps.json
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\JSONDEMO\JSONDEMO\bin\Debug\net10.0\JSONDEMO.runtimeconfig.json
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\JSONDEMO\JSONDEMO\bin\Debug\net10.0\JSONDEMO.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\JSONDEMO\JSONDEMO\bin\Debug\net10.0\JSONDEMO.pdb
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\JSONDEMO\JSONDEMO\bin\Debug\net10.0\Newtonsoft.Json.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\JSONDEMO\JSONDEMO\obj\Debug\net10.0\JSONDEMO.csproj.AssemblyReference.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\JSONDEMO\JSONDEMO\obj\Debug\net10.0\JSONDEMO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\JSONDEMO\JSONDEMO\obj\Debug\net10.0\JSONDEMO.AssemblyInfoInputs.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\JSONDEMO\JSONDEMO\obj\Debug\net10.0\JSONDEMO.AssemblyInfo.cs
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\JSONDEMO\JSONDEMO\obj\Debug\net10.0\JSONDEMO.csproj.CoreCompileInputs.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\JSONDEMO\JSONDEMO\obj\Debug\net10.0\JSONDEMO.csproj.Up2Date
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\JSONDEMO\JSONDEMO\obj\Debug\net10.0\JSONDEMO.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\JSONDEMO\JSONDEMO\obj\Debug\net10.0\refint\JSONDEMO.dll
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\JSONDEMO\JSONDEMO\obj\Debug\net10.0\JSONDEMO.pdb
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\JSONDEMO\JSONDEMO\obj\Debug\net10.0\JSONDEMO.genruntimeconfig.cache
+E:\Profile_Suppakorn_Sittiyanon\Csharp\repos\JSONDEMO\JSONDEMO\obj\Debug\net10.0\ref\JSONDEMO.dll
